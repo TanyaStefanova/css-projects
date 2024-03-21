@@ -1,0 +1,14 @@
+body {
+    background-color: #FBF3D5;
+    margin: 0;
+}
+
+.main {
+    margin: 0;
+    border: 10px solid black;
+    background-color: red;
+    display: block;
+    height: 400px;
+    width: 400px;
+    align-self: center;
+}
