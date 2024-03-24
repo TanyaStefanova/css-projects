@@ -46,6 +46,41 @@ body {
     width: 400px;
 }
 
+#bottom-right-column {
+    height: 100px;
+    width: 40px;
+}
+
+#small-bottom-white-box {
+    height: 40px;
+    width: 40px;
+}
+
+#horizontal-bottom-divider {
+    height: 20px;
+    width: 40px;
+}
+
+#yellow-box {
+    height: 40px;
+    width: 40px;
+}
+
+#bottom-white-box {
+    height: 100px;
+    width: 240px;
+}
+
+#blue-box {
+    height: 100px;
+    width: 100px;
+}
+ 
+.vertical-bottom-divider {
+    height: 100px;
+    width: 10px;
+}
+
 .red {
     background-color: #FF1500;
 }
