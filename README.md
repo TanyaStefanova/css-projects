@@ -1,1 +1,1 @@
-# css-projects
+# Projects made entirely with HTML & CSS
