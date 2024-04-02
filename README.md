@@ -1,4 +1,4 @@
-# Projects made entirely with HTML & CSS
+# Projects made entirely or mostly with HTML & CSS
 
-  1. Mondrian style painting
+  1. Mondrian painting
   2. Penguins game
